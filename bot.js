@@ -350,7 +350,7 @@ client.on('ready', () => {
       console.log(`ON ${client.guilds.size} Servers '     Script By : EX Clan ' `);
     console.log(`----------------`);
   console.log(`Logged in as ${client.user.tag}!`);
-client.user.setGame(`2play | Verse Music`,"http://twitch.tv/Forest Server")
+client.user.setGame(`2play | Forest Music`,"http://twitch.tv/Forest Server")
 client.user.setStatus("dnd")
 });
 
